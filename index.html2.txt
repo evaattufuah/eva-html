@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<head>
+<title>hello world</title>
+</head>
+<body>
+<h1>HOW TO BAKE CAKE AND DOUGHNUT</h1>
+<h3>CAKE<h3>
+    <nav>
+<ul>
+    <li><a hreft="#cake">cake section</a></li>
+    <li><a hreft="#doughnuts">doughnuts section></a></li>
+</ul>
+</nav>
+<a name "doughnuts"></a>
+
+    <h1>donut ingredients</h1>
+<h4>ingredient</h4>
+<ul>
+    <li> flour</li>
+    <li>eggs</li>
+    <li>fat</li>
+    <li>usually butter</li>
+     <li>sugar</li>
+     <li>saly</li> 
+     <li>milk</li>
+     <li>luquid soad</li>
+</ul>
+
+<h3>steps to bake doughnut</h3>
+<ol>
+<li>Cream the butter and sugar.<&nbsp;> Start by beating the butter and 1 cup of the sugar in a large bowl until the mixture is thick and pale colored, about 5 minutes </li>
+<li>Bring the dough together and let it rest.</li>
+ <li> Cut the doughnuts.</li>
+ <li> Fry 'em up.</li>
+<li>Roll the doughnuts in cinnamon and sugar</li>
+</ol>
+<div id="cake">
+    
+<h4>ingredient</h4>
+<ul>
+    <li> flour</li>
+    <li>eggs</li>
+    <li>fat</li>
+    <li>usually butter</li>
+     <li>sugar</li>
+     <li>saly</li> 
+     <li>milk</li>
+     <li>luquid soad</li>
+     <h4>steps to bake a cake</h4>
+<ul>
+    <h4>steps for baking cake</h4>
+    <ol>
+    <li>mix ur flower</li>
+        <li>grease and preheat</li>
+        <li>prepare your ingredients</li>
+        <li>whisk the dry mix</li>
+        <li>cream your butter and sugar</li>
+    <li>add the eggs</li>
+        <li>It's Time to Combine</li> 
+        <li>Vpour your batter in your pan</li>
+    </ol>
+
+
+</body>
